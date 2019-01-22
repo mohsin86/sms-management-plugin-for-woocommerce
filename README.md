@@ -4,4 +4,5 @@ dump mysql file to your database, set up the sms gateway username password url c
 
 __Requirements__
 * PHP 5.6+
+* Need wp woocommerce plugin
 
